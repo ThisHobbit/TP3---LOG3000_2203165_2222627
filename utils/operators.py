@@ -34,7 +34,7 @@ def subtract(a,b):
         Returns:
             float: La différence des deux nombres.
     """
-    return b - a
+    return a - b
 
 def multiply(a,b):
     """
